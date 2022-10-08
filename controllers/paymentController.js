@@ -8,10 +8,10 @@ const Payment =require("../models/payments")
 const razorpayInstance = new Razorpay({
 
     // Replace with your key_id
-    key_id: "rzp_live_5olF9jC5a7vicu",
+    key_id: "rzp_live_5olFr5tyu6icu_your_key_id",
   
     // Replace with your key_secret
-    key_secret: "IhdhueiahoP1DRXRqrHWl0l6"
+    key_secret: "khdhneiahoO8PTYNqrHWl986"
 });
 
     //Payment Controller
